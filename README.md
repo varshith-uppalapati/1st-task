@@ -2,11 +2,6 @@
 
 A modern, responsive, and accessible personal portfolio website showcasing my skills, projects, journey, and experience as a Full Stack Developer and Computer Science student.
 
-## 🚀 Live Demo
-
-[View Portfolio](https://your-portfolio-url.com)
-
----
 
 ## 📖 About
 
